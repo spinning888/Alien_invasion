@@ -15,7 +15,7 @@ Try your best to clear an entire alien fleet to advance to the next level, with 
 |------------|-------------|
 | python | 3.12+ |
 | pygame | 2.6+ |
-| VSCode | Bset editor ever in the world|
+| VSCode | Best editor ever in the world|
 
 ## ⚙️ Installation & Run
 
