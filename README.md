@@ -4,7 +4,7 @@
 
 Alien Invasion is a lightweight ez 2D shooting game written in Python, also a friendly python project for beginners.
 
-#  Backgroud story
+#  Background story
 Pilot your spaceship up, down, left, and right to fire bullets and shoot down alien named Taffy to protect our homeland!
 
 Try your best to clear an entire alien fleet to advance to the next level, with increasing difficulty. You have 3 lives per game: losing one when aliens reach the bottom, collide with your ship, or hit you with their bombs. Survive more waves and achieve a higher score to win!
