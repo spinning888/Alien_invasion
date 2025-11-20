@@ -1,5 +1,8 @@
 # 🚀 Alien Invasion Game
 
+# 🏆 News
+[Nov.20] First release : Base Version.
+
 ## 📋 Project Overview
 
 Alien Invasion is a lightweight and ez game written in Python, also a friendly python project for beginners.
@@ -69,5 +72,11 @@ alien_invasion/
 ```
 
 ---
+
+## ✨ Contacts
+
+Any issues, feel free to contact the author:
+
+📧 **Email:** [2024150065@mails.szu.edu.cn](mailto:2024150065@mails.szu.edu.cn)
 
 🎮 **Enjoy the game and challenge your high score!** 🚀
