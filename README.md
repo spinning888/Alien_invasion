@@ -61,14 +61,19 @@ python main.py
 
 ```
 alien_invasion/
-├── main.py              # Main game loop
-├── settings.py          # Game configuration
+├── main.py             # Main game loop
+├── settings.py         # Game configuration
+├── alien_bullet.py     # Bullet system
+├── button.py           # Button system
+├── game stats.py       # Game Control
+├── scoreboard.py       # score init and update
 ├── ship.py             # Player spaceship
 ├── alien.py            # Enemy aliens
 ├── bullet.py           # Player bullets
 ├── shield.py           # Shield system
 ├── images/             # Game sprites
-└── sounds/             # Audio files 
+├── sounds/             # Audio files
+└── high_score.json     # data file
 ```
 
 ---
